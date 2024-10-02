@@ -17,3 +17,5 @@ When trying to figure out the pull request mechanic and how exactly this assignm
 
 * The page changed slightly and I was no longer able to pick a theme
 One of the main differences between the two pages was that the new one had more elements added. A dog and cat icon, as well as a catch phrase that said "Get your paws on it!". The other major difference was that it only gave me the landing page code. Previously it gave me 4 scripts that would help with back-end work. Thus, me adding the LandingPage file has so many errors as it is deriving from scripts that aren't existing.
+
+## Week 5 Assignment
