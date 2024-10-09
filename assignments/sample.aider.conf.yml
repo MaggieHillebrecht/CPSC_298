@@ -56,8 +56,14 @@
 ## Use o1-preview model for the main chat
 #o1-preview: false
 
+## Specify the Groq API key
+groq-api-key: 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
+
 #################
 # Model Settings:
+
+## Specify the model to use for the main chat
+model: gpt-4o-2024-08-06
 
 ## List known models which match the (partial) MODEL name
 #list-models: xxx
